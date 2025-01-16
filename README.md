@@ -35,6 +35,55 @@ This project provides a platform for users to create, edit, and publish blog pos
 ### 6. **Toast Notification**
 - Provides notifications to enhance user experience.
 
+### 7. **AJAX for Asynchronous Operations**
+- AJAX is used for certain POST operations, such as adding categories dynamically in the article creation page. Below is an example AJAX code snippet:
+
+```javascript
+$(document).ready(function () {
+
+    $("#btnSave").click(function (event) {
+        event.preventDefault();
+
+        var addUrl = app.Urls.categoryAddUrl;
+        var redirectUrl = app.Urls.articleAddUrl;
+
+        console.log("Add URL:", addUrl);
+        console.log("Redirect URL:", redirectUrl);
+
+        var categoryAddDto = {
+            Name: $("input[id=categoryName]").val(),
+        }
+        console.log(categoryAddDto);
+        var jsonData = JSON.stringify(categoryAddDto);
+        console.log(jsonData);
+
+        $.ajax({
+            url: addUrl,
+            type: "POST",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            headers: {
+                "Accept": "application/json"
+            },
+            data: jsonData,
+            success: function (data) {
+                setTimeout(function () {
+                    window.location.href = redirectUrl;
+                }, 1500);
+            },
+            error: function (xhr, status, error) {
+                console.log("Hata"); 
+                console.log("Status: " + status);
+                console.log("Error: " + error);
+                console.log("Response: " + xhr.responseText);
+
+                toastr.error("Bir Hata Oluştu: " + xhr.responseText, "Hatalarrrr");
+            }
+        });
+    });
+});
+```
+
 ---
 
 ## Project Setup
@@ -103,4 +152,3 @@ This project is licensed under the MIT License. For more information, see the LI
 
 ## Contact
 For questions or feedback, please reach out at [your email address].
-
