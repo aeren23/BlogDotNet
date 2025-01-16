@@ -1,0 +1,93 @@
+﻿@model ArticleAddDto
+
+<div class="container-xxl flex-grow-1 container-p-y">
+    <h4 class="fw-bold py-3 mb-4">
+        <span class="text-muted fw-light">Makale Yönetimi /</span> Makale Ekle
+    </h4>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <h5 class="card-header">Default</h5>
+                <form asp-controller="Article" asp-action="Add" method="post" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly"></div>
+                    <div class="card-body">
+
+                        <div class="form-group">
+                            <label asp-for="CategoryId">Kategori</label>
+                            <a class="btn text-primary float-end" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
+                                Ekle <i class="bx bx-plus"></i>
+                            </a>
+                            <select id="categoryList" class="form-control mb-3" asp-for="CategoryId" asp-items="@(new SelectList(Model.Categories,"Id","Name"))"></select>
+                            <span asp-validation-for="CategoryId" class="text-danger"> </span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Title" class="form-label">Title</label>
+                            <input asp-for="Title" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Başlık" aria-describedby="defaultFormControlHelp">
+                            <span asp-validation-for="Title" class="text-danger"> </span>
+                        </div>
+                        <div class ="form-group">
+                            <label asp-for="Content" class="form-label">Content</label>
+                            <textarea asp-for="Content" style="min-height:300px;" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="İçerik" aria-describedby="defaultFormControlHelp"></textarea>
+                            <span asp-validation-for="Content" class="text-danger mb-3"> </span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Photo" class="form-label">Photo</label>
+                            <input asp-for="Photo" type="file" accept="image/*" class="form-control mb-3" id="defaultFormControlInput" aria-describedby="defaultFormControlHelp">
+                            <span asp-validation-for="Photo" class="text-danger mb-3"> </span>
+                        </div>
+                        
+
+                        <div class="form-group">
+                            <button class="btn btn-success" type="submit">Makale Ekle</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label class="d-block form-label">Kategori İsmi</label>
+                        <input class="form-control" type="text" id="categoryName" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                <button type="button" data-keyboard="false" class="btn btn-primary" id="btnSave">Değişiklikleri Kaydet</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    @* //Ajax sorgusu hatasını çöz *@
+    <script src="~/js/categoryAdd.js"></script>
+    <script>
+        var app=app || {};
+        app.Urls=app.Urls || {};
+
+        app.Urls.baseUrl="@(Url.Content("~/"))";
+        app.Urls.categoryAddUrl="@(Url.Action("AddWithAjax","Category"))";
+        app.Urls.articleAddUrl="@(Url.Action("Add","Article"))";
+
+        console.log("Category Add URL:", app.Urls.categoryAddUrl);
+        console.log("Article Add URL:", app.Urls.articleAddUrl);
+
+    </script>
+}

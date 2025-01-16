@@ -1,0 +1,11 @@
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.CoreLayer\bin\Debug\net6.0\BlogDotNet.CoreLayer.deps.json
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.CoreLayer\bin\Debug\net6.0\BlogDotNet.CoreLayer.dll
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.CoreLayer\bin\Debug\net6.0\BlogDotNet.CoreLayer.pdb
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.CoreLayer\obj\Debug\net6.0\BlogDotNet.CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.CoreLayer\obj\Debug\net6.0\BlogDotNet.CoreLayer.AssemblyInfoInputs.cache
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.CoreLayer\obj\Debug\net6.0\BlogDotNet.CoreLayer.AssemblyInfo.cs
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.CoreLayer\obj\Debug\net6.0\BlogDotNet.CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.CoreLayer\obj\Debug\net6.0\BlogDotNet.CoreLayer.dll
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.CoreLayer\obj\Debug\net6.0\refint\BlogDotNet.CoreLayer.dll
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.CoreLayer\obj\Debug\net6.0\BlogDotNet.CoreLayer.pdb
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.CoreLayer\obj\Debug\net6.0\ref\BlogDotNet.CoreLayer.dll

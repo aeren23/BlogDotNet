@@ -1,0 +1,1541 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alihe\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlogDotNet.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlogDotNet.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\css\\cdn.css",
+      "PackagePath": "staticwebassets\\css\\cdn.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\image\\article-images\\ASP.Net Core +3i _)_730.png",
+      "PackagePath": "staticwebassets\\image\\article-images\\ASP.Net Core +3i _)_730.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\image\\article-images\\ASP.Net Core +3i _)_87.png",
+      "PackagePath": "staticwebassets\\image\\article-images\\ASP.Net Core +3i _)_87.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\image\\article-images\\C# Yolculuğu_201.png",
+      "PackagePath": "staticwebassets\\image\\article-images\\C# Yolculuğu_201.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\image\\article-images\\asdasdad_643.jpg",
+      "PackagePath": "staticwebassets\\image\\article-images\\asdasdad_643.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\image\\article-images\\asdsad_615.png",
+      "PackagePath": "staticwebassets\\image\\article-images\\asdsad_615.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\image\\article-images\\asdsad_962.png",
+      "PackagePath": "staticwebassets\\image\\article-images\\asdsad_962.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\image\\article-images\\sgorseldenemeg_759.png",
+      "PackagePath": "staticwebassets\\image\\article-images\\sgorseldenemeg_759.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\image\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\image\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\image\\user-images\\Ali Eren1Oguztas_104.png",
+      "PackagePath": "staticwebassets\\image\\user-images\\Ali Eren1Oguztas_104.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\image\\user-images\\Ali ErenOguztas_377.png",
+      "PackagePath": "staticwebassets\\image\\user-images\\Ali ErenOguztas_377.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\image\\user-images\\Ali ErenOguztas_381.jpg",
+      "PackagePath": "staticwebassets\\image\\user-images\\Ali ErenOguztas_381.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\image\\user-images\\AliErenOguztas_771.png",
+      "PackagePath": "staticwebassets\\image\\user-images\\AliErenOguztas_771.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\js\\articleIndex.js",
+      "PackagePath": "staticwebassets\\js\\articleIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\js\\categoryAdd.js",
+      "PackagePath": "staticwebassets\\js\\categoryAdd.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\js\\categoryIndex.js",
+      "PackagePath": "staticwebassets\\js\\categoryIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\js\\cdnbootstrap.js",
+      "PackagePath": "staticwebassets\\js\\cdnbootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\js\\cdndtbuttons.js",
+      "PackagePath": "staticwebassets\\js\\cdndtbuttons.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\js\\cdnjquery.js",
+      "PackagePath": "staticwebassets\\js\\cdnjquery.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\js\\dashboardIndex.js",
+      "PackagePath": "staticwebassets\\js\\dashboardIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\js\\newFile.js",
+      "PackagePath": "staticwebassets\\js\\newFile.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\js\\userIndex.js",
+      "PackagePath": "staticwebassets\\js\\userIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\.browserslistrc",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\.browserslistrc"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\.eslintignore",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\.eslintignore"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\.gitignore",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\.prettierignore",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\.prettierignore"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\.prettierrc.json",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\.prettierrc.json"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\LICENSE.md",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\README.md",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\build-config.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\build-config.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\documentation.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\gulpfile.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\auth-forgot-password-basic.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\auth-forgot-password-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\auth-login-basic.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\auth-login-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\auth-register-basic.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\auth-register-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\cards-basic.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\cards-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\extended-ui-perfect-scrollbar.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\extended-ui-perfect-scrollbar.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\extended-ui-text-divider.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\extended-ui-text-divider.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\form-layouts-horizontal.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\form-layouts-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\form-layouts-vertical.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\form-layouts-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\forms-basic-inputs.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\forms-basic-inputs.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\forms-input-groups.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\forms-input-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\icons-boxicons.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\icons-boxicons.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\index.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\layouts-blank.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\layouts-blank.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\layouts-container.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\layouts-container.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\layouts-fluid.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\layouts-fluid.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\layouts-without-menu.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\layouts-without-menu.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\layouts-without-navbar.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\layouts-without-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\pages-account-settings-account.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\pages-account-settings-account.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\pages-account-settings-connections.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\pages-account-settings-connections.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\pages-account-settings-notifications.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\pages-account-settings-notifications.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\pages-misc-error.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\pages-misc-error.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\pages-misc-under-maintenance.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\pages-misc-under-maintenance.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\tables-basic.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\tables-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-accordion.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-accordion.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-alerts.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-badges.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-badges.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-carousel.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-collapse.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-dropdowns.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-dropdowns.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-footer.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-footer.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-list-groups.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-list-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-modals.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-modals.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-navbar.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-offcanvas.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-offcanvas.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-pagination-breadcrumbs.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-pagination-breadcrumbs.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-progress.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-progress.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-spinners.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-spinners.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-tabs-pills.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-tabs-pills.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-toasts.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-tooltips-popovers.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-tooltips-popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\html\\ui-typography.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\html\\ui-typography.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\js\\menu.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\libs\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\libs\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\libs\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\libs\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\libs\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\libs\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\package-lock.json",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\package.json",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\core.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\tasks\\build.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\tasks\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\tasks\\prod.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\tasks\\prod.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\webpack.config.js",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\webpack.config.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\sneat-1.0.0\\yarn.lock",
+      "PackagePath": "staticwebassets\\sneat-1.0.0\\yarn.lock"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\about.html",
+      "PackagePath": "staticwebassets\\stand-blog\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\css\\templatemo-stand-blog.css",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\css\\templatemo-stand-blog.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\about-us.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\about-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\banner-item-01.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\banner-item-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\banner-item-02.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\banner-item-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\banner-item-03.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\banner-item-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\banner-item-04.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\banner-item-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\banner-item-05.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\banner-item-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\banner-item-06.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\banner-item-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\blog-post-01.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\blog-post-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\blog-post-02.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\blog-post-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\blog-post-03.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\blog-post-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\blog-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\blog-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\blog-thumb-02.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\blog-thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\blog-thumb-03.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\blog-thumb-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\blog-thumb-04.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\blog-thumb-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\blog-thumb-05.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\blog-thumb-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\blog-thumb-06.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\blog-thumb-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\comment-author-01.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\comment-author-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\comment-author-02.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\comment-author-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\comment-author-03.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\comment-author-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\images\\heading-bg.jpg",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\images\\heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\js\\owl.js",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\js\\owl.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\stand-blog\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\blog.html",
+      "PackagePath": "staticwebassets\\stand-blog\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\contact.html",
+      "PackagePath": "staticwebassets\\stand-blog\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\index.html",
+      "PackagePath": "staticwebassets\\stand-blog\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\post-details.html",
+      "PackagePath": "staticwebassets\\stand-blog\\post-details.html"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\prepros-6.config",
+      "PackagePath": "staticwebassets\\stand-blog\\prepros-6.config"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\stand-blog\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\stand-blog\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alihe\\source\\repos\\BlogDotNet\\BlogDotNet.UI\\wwwroot\\stand-blog\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\stand-blog\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlogDotNet.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlogDotNet.UI.props",
+      "PackagePath": "build\\BlogDotNet.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogDotNet.UI.props",
+      "PackagePath": "buildMultiTargeting\\BlogDotNet.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlogDotNet.UI.props",
+      "PackagePath": "buildTransitive\\BlogDotNet.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

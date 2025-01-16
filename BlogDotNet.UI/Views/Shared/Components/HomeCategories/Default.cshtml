@@ -1,0 +1,11 @@
+﻿@using BlogDotNet.EntityLayer.DTOs.Categories
+@model List<CategoryDto>
+
+<div class="content">
+    <ul>
+        @foreach(var item in Model)
+        {
+            <li><a href="/Home/Search?Keyword=@item.Name.ToLower()">@item.Name</a></li>
+        }     
+    </ul>
+</div>

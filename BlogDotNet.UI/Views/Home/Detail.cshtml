@@ -1,0 +1,51 @@
+﻿@model ArticleDto
+
+<section class="blog-posts">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="all-blog-posts">
+                    <div class="row">
+                        <div class="col-lg-12">
+                                <div class="blog-post">
+                                    <div class="blog-thumb">
+                                        <img src="~/image/@Model.Image.FileName" alt="">
+                                    </div>
+                                    <div class="down-content">
+                                        <a asp-controller="Home" asp-action="Detail" asp-route-id="@Model.Id"><h4>@Model.Title</h4></a>
+                                        <ul class="post-info">
+                                            @if (Model.User != null)
+                                            {
+                                                <li>@Model.User.FirstName @Model.User.LastName</li>
+                                            }
+                                            <li>@Model.CreatedDate.ToString("dd/MM/yyyy")</li>
+                                        <li><i class="fa-solid fa-eye"></i> @Model.ViewCount</li>
+                                        </ul>
+                                        <p>
+                                        @(Model.Content.Length > 280 ? Model.Content.Substring(0, 280) : Model.Content) ...
+                                        </p>
+                                        <div class="post-options">
+                                            <div class="row">
+                                                <div class="col-6">
+                                                    <ul class="post-tags">
+                                                        <li><i class="fa fa-tags"></i></li>
+                                                    <li><a href="#">@Model.Category.Name</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col-6">
+                                                    <ul class="post-share">
+                                                        <li><i class="fa fa-link"></i></li>
+                                                    <li><a asp-controller="Home" asp-action="Detail" asp-route-id="@Model.Id">[Devamını Oku]</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

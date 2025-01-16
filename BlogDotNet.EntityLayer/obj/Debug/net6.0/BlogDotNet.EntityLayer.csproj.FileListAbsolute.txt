@@ -1,0 +1,15 @@
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\bin\Debug\net6.0\BlogDotNet.EntityLayer.deps.json
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\bin\Debug\net6.0\BlogDotNet.EntityLayer.dll
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\bin\Debug\net6.0\BlogDotNet.EntityLayer.pdb
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\bin\Debug\net6.0\BlogDotNet.CoreLayer.dll
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\bin\Debug\net6.0\BlogDotNet.CoreLayer.pdb
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\obj\Debug\net6.0\BlogDotNet.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\obj\Debug\net6.0\BlogDotNet.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\obj\Debug\net6.0\BlogDotNet.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\obj\Debug\net6.0\BlogDotNet.EntityLayer.AssemblyInfo.cs
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\obj\Debug\net6.0\BlogDotNet.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\obj\Debug\net6.0\BlogDotN.3422E88C.Up2Date
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\obj\Debug\net6.0\BlogDotNet.EntityLayer.dll
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\obj\Debug\net6.0\refint\BlogDotNet.EntityLayer.dll
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\obj\Debug\net6.0\BlogDotNet.EntityLayer.pdb
+C:\Users\alihe\source\repos\BlogDotNet\BlogDotNet.EntityLayer\obj\Debug\net6.0\ref\BlogDotNet.EntityLayer.dll

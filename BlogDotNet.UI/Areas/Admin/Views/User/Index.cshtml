@@ -1,0 +1,65 @@
+﻿@model List<UserDto>
+<div class="container-xxl flex-grow-1 container-p-y">
+    <h4 class="fw-bold py-3 mb-4">
+        <span class="text-muted fw-light">Kullanıcı Yönetimi /</span>Kullanıcılar
+    </h4>
+
+    <!-- Basic Bootstrap Table -->
+    <div class="card">
+        <h5 class="card-header">Table Basic</h5>
+        <div class="table-responsive text-nowrap p-4">
+            <table class="table table-bordered m-2 " id="usersTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>İsim</th>
+                        <th>Soyisim</th>
+                        <th>Email</th>
+                        <th>EmailConfirmed</th>
+                        <th>Telefon Numarası</th>
+                        <th>Access Failed Count</th>
+                        <th>Rol</th>
+                        <th>İşlemler</th>
+                    </tr>
+                </thead>
+                <tbody class="table-border-bottom-0">
+                    @foreach (var item in Model)
+                    {
+                        <tr name="@item.Id">
+                            <td>@item.FirstName</td>
+                            <td>@item.LastName</td>
+                            <td>@item.Email</td>
+                            <td>@(item.EmailConfirmed ? "Email Doğrulanmış" : "Email Doğrulanmamış")</td>
+                            <td>@item.PhoneNumber</td>
+                            <td>@item.AccessFailedCount</td>
+                            <td>@item.Role</td>
+                            <td>
+                                <a class="btn-primary btn btn-sm" data-id="@item.Id" asp-area="Admin" asp-controller="User" asp-action="Update" asp-route-userId="@item.Id"><i class="bx bxs-edit"></i> Güncelle</a>
+                                <a class="btn-danger btn btn-sm" data-id="@item.Id" asp-area="Admin" asp-controller="User" asp-action="Delete" asp-route-userId="@item.Id"><i class="bx bxs-minus-circle"></i> Sil</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <th>İsim</th>
+                        <th>Soyisim</th>
+                        <th>Email</th>
+                        <th>EmailConfirmed</th>
+                        <th>Telefon Numarası</th>
+                        <th>Access Failed Count</th>
+                        <th>İşlemler</th>
+                    </tr>
+                </tfoot>
+            </table>
+            <a class="btn btn-primary" asp-area="Admin" asp-controller="User" asp-action="Add">
+                <i class="bx bx-plus"></i> Kullanıcı Ekle
+            </a>
+        </div>
+    </div>
+
+    <hr class="my-12">
+
+</div>
+@section Scripts {
+    <script src="~/js/userIndex.js" type="application/ecmascript"></script>
+}

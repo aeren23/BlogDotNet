@@ -1,0 +1,58 @@
+﻿@model List<CategoryDto>
+<div class="container-xxl flex-grow-1 container-p-y">
+    <h4 class="fw-bold py-3 mb-4">
+        <span class="text-muted fw-light">Kategori Yönetimi /</span>Kategoriler
+    </h4>
+
+    <!-- Basic Bootstrap Table -->
+    <div class="card">
+        <h5 class="card-header">Table Basic</h5>
+        <div class="table-responsive text-nowrap p-4">
+            <table class="table table-bordered m-2 " id="categoriesTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>İsim</th>
+                        <th>Oluşturulma Tarihi</th>
+                        <th>Oluşturan</th>
+                        <th>Durum</th>
+                        <th>İşlemler</th>
+                    </tr>
+                </thead>
+                <tbody class="table-border-bottom-0">
+                    @foreach (var item in Model)
+                    {
+                        <tr name="@item.Id">
+                            <td>@item.Name</td>
+                            <td>@item.CreatedDate.ToShortDateString()</td>
+                            <td>@item.CreatedBy</td>
+                            <td>@(item.IsDeleted ? "Aktif Değil" : "Aktif")</td>
+                            <td>
+                                <a class="btn-primary btn btn-sm" data-id="@item.Id" asp-area="Admin" asp-controller="Category" asp-action="Update" asp-route-categoryId="@item.Id"><i class="bx bxs-edit"></i> Güncelle</a>
+                                <a class="btn-danger btn btn-sm" data-id="@item.Id" asp-area="Admin" asp-controller="Category" asp-action="Delete" asp-route-categoryId="@item.Id"><i class="bx bxs-minus-circle"></i> Sil</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <th>İsim</th>
+                        <th>Oluşturulma Tarihi</th>
+                        <th>Oluşturan</th>
+                        <th>Durum</th>
+                        <th>İşlemler</th>
+                    </tr>
+                </tfoot>
+            </table>
+            <a class="btn btn-primary" asp-area="Admin" asp-controller="Category" asp-action="Add">
+                <i class="bx bx-plus"></i> Kategori Ekle
+            </a>
+        </div>
+    </div>
+    <!--/ Basic Bootstrap Table -->
+
+    <hr class="my-12">
+
+</div>
+@section Scripts {
+    <script src="~/js/articleIndex.js" type="application/ecmascript"></script>
+}
